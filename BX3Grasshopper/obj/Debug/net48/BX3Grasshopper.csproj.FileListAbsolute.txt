@@ -1,0 +1,10 @@
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\bin\Debug\net48\BX3Grasshopper.gha
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\bin\Debug\net48\BX3Grasshopper.pdb
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net48\BX3Grasshopper.csproj.AssemblyReference.cache
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net48\BX3Grasshopper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net48\BX3Grasshopper.AssemblyInfoInputs.cache
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net48\BX3Grasshopper.AssemblyInfo.cs
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net48\BX3Grasshopper.csproj.CoreCompileInputs.cache
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net48\BX3Grasshopper.sourcelink.json
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net48\BX3Grasshopper.gha
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net48\BX3Grasshopper.pdb

@@ -1,0 +1,15 @@
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\bin\Debug\net7.0\BX3Grasshopper.deps.json
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\bin\Debug\net7.0\BX3Grasshopper.runtimeconfig.json
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\bin\Debug\net7.0\BX3Grasshopper.gha
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\bin\Debug\net7.0\BX3Grasshopper.pdb
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net7.0\BX3Grasshopper.csproj.AssemblyReference.cache
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net7.0\BX3Grasshopper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net7.0\BX3Grasshopper.AssemblyInfoInputs.cache
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net7.0\BX3Grasshopper.AssemblyInfo.cs
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net7.0\BX3Grasshopper.csproj.CoreCompileInputs.cache
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net7.0\BX3Grasshopper.sourcelink.json
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net7.0\BX3Grasshopper.gha
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net7.0\refint\BX3Grasshopper.gha
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net7.0\BX3Grasshopper.pdb
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net7.0\BX3Grasshopper.genruntimeconfig.cache
+C:\Users\pmirabian\GitHub\Bombyx3\BX3Grasshopper\obj\Debug\net7.0\ref\BX3Grasshopper.gha

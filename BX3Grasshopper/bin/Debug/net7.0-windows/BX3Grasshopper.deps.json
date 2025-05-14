@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BX3Grasshopper/1.0": {
+        "dependencies": {
+          "Grasshopper": "8.19.25132.1001"
+        },
+        "runtime": {
+          "BX3Grasshopper.gha": {}
+        }
+      },
+      "Grasshopper/8.19.25132.1001": {
+        "dependencies": {
+          "RhinoCommon": "8.19.25132.1001"
+        }
+      },
+      "Microsoft.Win32.SystemEvents/7.0.0": {},
+      "RhinoCommon/8.19.25132.1001": {
+        "dependencies": {
+          "System.Drawing.Common": "7.0.0"
+        }
+      },
+      "System.Drawing.Common/7.0.0": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "7.0.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BX3Grasshopper/1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grasshopper/8.19.25132.1001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nnWdVW0wsA5t+lJ5AiHlbNSAHyljhmYOwW5zmUPgzcuaMVDJsQAEWN+WS8XQziF5UflS/HEPabtOYiTg6U2myA==",
+      "path": "grasshopper/8.19.25132.1001",
+      "hashPath": "grasshopper.8.19.25132.1001.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2nXPrhdAyAzir0gLl8Yy8S5Mnm/uBSQQA7jEsILOS1MTyS7DbmV1NgViMtvV1sfCD1ebITpNwb1NIinKeJgUVQ==",
+      "path": "microsoft.win32.systemevents/7.0.0",
+      "hashPath": "microsoft.win32.systemevents.7.0.0.nupkg.sha512"
+    },
+    "RhinoCommon/8.19.25132.1001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Axf8S380nDXceCd6FEBqjv8qqyLAi6gQXcMBR3+UYyWPkiYbk4yRSceuxrw9BpK7UqybMyr8c7reWdBhYRDVVw==",
+      "path": "rhinocommon/8.19.25132.1001",
+      "hashPath": "rhinocommon.8.19.25132.1001.nupkg.sha512"
+    },
+    "System.Drawing.Common/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KIX+oBU38pxkKPxvLcLfIkOV5Ien8ReN78wro7OF5/erwcmortzeFx+iBswlh2Vz6gVne0khocQudGwaO1Ey6A==",
+      "path": "system.drawing.common/7.0.0",
+      "hashPath": "system.drawing.common.7.0.0.nupkg.sha512"
+    }
+  }
+}

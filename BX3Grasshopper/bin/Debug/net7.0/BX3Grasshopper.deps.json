@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BX3Grasshopper/1.0": {
+        "dependencies": {
+          "Grasshopper": "8.19.25132.1001",
+          "Microsoft.NETFramework.ReferenceAssemblies.net48": "1.0.3",
+          "System.Drawing.Common": "9.0.5"
+        },
+        "runtime": {
+          "BX3Grasshopper.gha": {}
+        }
+      },
+      "Grasshopper/8.19.25132.1001": {
+        "dependencies": {
+          "RhinoCommon": "8.19.25132.1001"
+        }
+      },
+      "Microsoft.NETFramework.ReferenceAssemblies.net48/1.0.3": {},
+      "RhinoCommon/8.19.25132.1001": {
+        "dependencies": {
+          "System.Drawing.Common": "9.0.5"
+        }
+      },
+      "System.Drawing.Common/9.0.5": {}
+    }
+  },
+  "libraries": {
+    "BX3Grasshopper/1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grasshopper/8.19.25132.1001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nnWdVW0wsA5t+lJ5AiHlbNSAHyljhmYOwW5zmUPgzcuaMVDJsQAEWN+WS8XQziF5UflS/HEPabtOYiTg6U2myA==",
+      "path": "grasshopper/8.19.25132.1001",
+      "hashPath": "grasshopper.8.19.25132.1001.nupkg.sha512"
+    },
+    "Microsoft.NETFramework.ReferenceAssemblies.net48/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zMk4D+9zyiEWByyQ7oPImPN/Jhpj166Ky0Nlla4eXlNL8hI/BtSJsgR8Inldd4NNpIAH3oh8yym0W2DrhXdSLQ==",
+      "path": "microsoft.netframework.referenceassemblies.net48/1.0.3",
+      "hashPath": "microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+    },
+    "RhinoCommon/8.19.25132.1001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Axf8S380nDXceCd6FEBqjv8qqyLAi6gQXcMBR3+UYyWPkiYbk4yRSceuxrw9BpK7UqybMyr8c7reWdBhYRDVVw==",
+      "path": "rhinocommon/8.19.25132.1001",
+      "hashPath": "rhinocommon.8.19.25132.1001.nupkg.sha512"
+    },
+    "System.Drawing.Common/9.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T/6nqx0B7/uTe5JjBwrKZilLuwfhHLOVmNKlT/wr4A9Dna94mgTdz3lTfrdJ72QRx7IHCv/LzoJPmFSfK/N6WA==",
+      "path": "system.drawing.common/9.0.5",
+      "hashPath": "system.drawing.common.9.0.5.nupkg.sha512"
+    }
+  }
+}
